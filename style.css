@@ -1,0 +1,87 @@
+body {
+    background-image: url('picture/BG2.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto; 
+    border-collapse: collapse; 
+}
+
+th, td {
+    border: 1px solid black; 
+    padding: 8px; 
+    text-align: center; 
+}
+
+.formContainer{
+    margin-left: 180px;
+    display: flex; 
+    align-items: center;    
+   
+}
+.sub-formContainer{
+    padding: 2%;
+}
+
+.sub-formContainermini{
+    margin-top: -425px;
+    padding: 2%;
+}
+
+
+form {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    width: 300px; 
+    margin: 0 auto; 
+    border: 1px solid #ccc; 
+    padding: 20px; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+form input, form button {
+    width: 100%; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 3px; 
+    text-align: center;
+}
+
+/* Styling form buttons */
+form button {
+    background-color: #4CAF50; 
+    color: white; 
+    cursor: pointer; 
+}
+
+form button:hover {
+    background-color: #45a049; 
+}
+
+.red-background {
+    background-color: red;
+}
+
+.blue-background {
+    background-color: blue;
+}
+
+.yellow-background {
+    background-color: yellow;
+}
+
+
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<baskets>
+    <basket>
+      <number>1</number>
+      <owner>Joyce</owner>
+      <fruits>
+        <Apple>4</Apple>
+        <Banana>5</Banana>
+        <Grapes>3</Grapes>
+        <Orange>2</Orange>
+      </fruits>
+    </basket>
+
+    
+<basket><number>2</number><owner>JJ</owner><fruits><Apple>1</Apple><Banana>1</Banana><Orange>2</Orange><Grapes>1</Grapes></fruits></basket></baskets>
